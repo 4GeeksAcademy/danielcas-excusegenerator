@@ -12,7 +12,7 @@ window.onload = function() {
       console.log("Hello Rigo from the console!");
       let sujetos = ["Mi perro","El Wi-Fi","Mi teclado","Un apagón","El Uber","Mi alarma"];
       let verbos = ["se cayó","falló","se apagó","se rompió","dejó de funcionar","se quedó sin batería","se retrasó","me dejó tirado"];
-      let conectores = ["justo cuando","precisamente mientras","en el momento en que","apenas","antes de que"];
+      let conectores = ["precisamente mientras","en el momento en que","apenas","antes de que"];
       let acciones = ["iba a entregarte el trabajo","estaba subiendo el archivo","arranqué la reunión","salía de casa","hice clic en 'Enviar'"];
       let extras = ["y no tuve forma de recuperarlo","y me quedé sin tiempo","y se perdió todo","y el internet murió","y no arrancó más","y la PC se reinició","y me dejó incomunicado",];
       let tiempos = ["hoy","esta mañana","hace un rato","anoche","hace 10 minutos","a última hora","justo ahora"];
